@@ -1,5 +1,5 @@
 # Tiny_Sensor
-Uses an ATtiny85 to flash LEDs in accordance with the resistance of a sensor
+Uses an ATtiny85 to flash LEDs in accordance with the resistance of a sensor.
 
 This is an educational project that is designed to:
 1. Teach about resistive sensors in a fun way.
